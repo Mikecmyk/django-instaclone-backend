@@ -146,7 +146,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
 CORS_ALLOWED_ORIGINS = [
-    "https://your-frontend-name.onrender.com",
+    "https://react-instaclone-frontend-xaxp.onrender.com"
     "http://localhost:5173", # Your Vite development server
     "http://127.0.0.1:5173", # For maximum compatibility
 ]
